@@ -1,0 +1,39 @@
+{
+  "allfriends": [
+    {
+      "name": "OBBO",
+      "location": "Chennai",
+      "likes": 5,
+      "dislikes": 4,
+      "id": 1
+    },
+    {
+      "name": "Kicks",
+      "location": "Chepauk",
+      "likes": 41,
+      "dislikes": 19,
+      "id": 2
+    },
+    {
+      "name": "Takia",
+      "location": "Kalam-undra",
+      "likes": 50,
+      "dislikes": 21,
+      "id": 4
+    },
+    {
+      "name": "Sindhu",
+      "location": "Punjab",
+      "likes": 11,
+      "dislikes": 4,
+      "id": 5
+    },
+    {
+      "name": "Prafful Daga",
+      "location": "Chennai",
+      "likes": 33,
+      "dislikes": 8,
+      "id": 6
+    }
+  ]
+}
