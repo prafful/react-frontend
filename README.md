@@ -1,6 +1,6 @@
 ## Backend
 
-Backend repository is abailable at (https://github.com/prafful/node-express-backend)
+Backend repository is available at (https://github.com/prafful/node-express-backend)
 
 React is fun to work with!
 
